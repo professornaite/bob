@@ -1,19 +1,12 @@
----
-title: "Atomic Bombs"
-author: "Nathan Alexander"
-output: html_document
----
+# create atomic bombs plot
 
-```{r setup, include=T}
-df <- read.csv("data/atomic-bombs.csv")
-df
-```
-
-## Plots
-
-```{r, include=T, echo=T, warning=F}
 library(ggplot2)
 library(dplyr)
+
+# Create the "plots" directory if it doesn't exist
+if (!dir.exists("plots")) {
+  dir.create("plots")
+}
 
 # Create a new column for labels: use 'count' if available, otherwise use 'host_count'
 df <- df %>%
@@ -31,6 +24,8 @@ p <- ggplot(df, aes(x = reorder(nation, atomic.bombs), y = count, fill = factor(
         legend.position = "top") +
   scale_fill_manual(values = c("0" = "orange", "1" = "red", "2" = "darkred"))  # Customize colors for UN membership
 
-```
+# Save the plot to the "plots" directory
+ggsave(filename = "plots/total_atomic_bombs_by_country.png", plot = p, width = 10, height = 6)
 
-![](plots/total_atomic_bombs_by_country.png)
+# Optional: Print a confirmation message
+cat("Plot saved to 'plots/total_atomic_bombs_by_country.png'\n")

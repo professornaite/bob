@@ -20,7 +20,7 @@ host <- c(0, 0, 0, 0, 0,
           1, 1, 1, 1,
           1, 0, 0, 0,
           1) # Host status (1 = hosts nuclear weapons)
-un_perm <- c(1, 1, 1, 1, 1,   # Russia, US, China, France, UK are P5
+un_perm <- c(2, 2, 2, 2, 2,   # Russia, US, China, France, UK are P5
              0,              # Pakistan
              0,              # India
              0,              # Israel

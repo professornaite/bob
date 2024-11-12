@@ -3,7 +3,9 @@ title: "Nuclear Weapons Dataset"
 output: html_document
 ---
 
-I provide the data and a codebook for the Nuclear Weapons Dataset, which includes various countries' nuclear capabilities and their hosting arrangements. The dataset also includes key variables that reflect the ownership of atomic bombs, hosting status, and membership in the United Nations Security Council. Understanding these variables is crucial for analyzing global nuclear dynamics and geopolitical relationships.
+I provide the data and a code book for a Nuclear Weapons Dataset (NWD) The data includes various countries' nuclear capabilities and their hosting arrangements. The dataset also includes key variables that reflect the ownership of atomic bombs, hosting status, and membership in the United Nations Security Council. Understanding these variables is crucial for analyzing global nuclear dynamics and geopolitical relationships.
+
+![](plots/total_atomic_bombs_by_country.png)
 
 The dataset comprises several important variables: `nation`, which identifies each country; `count`, representing the number of atomic bombs owned; `host`, indicating whether a country hosts nuclear weapons from another nation; `un`, denoting UN membership status; and `host_count`, which shows the number of nuclear bombs hosted by each country. Each variable is essential for understanding the landscape of nuclear armament and international relations.
 
