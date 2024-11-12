@@ -26,4 +26,4 @@ This project helps frame a broader focus on state violence to highlight the inte
 
 ### Project members
 
-Nathan Alexander (Howard), [critstats-users](https://quant-shop.github.io/critstats)
+Nathan Alexander (Howard), [critstats-users](https://professornaite.github.io/critstats/)
