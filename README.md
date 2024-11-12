@@ -1,9 +1,9 @@
 ---
-title: "Nuclear Weapons Dataset"
+title: "Nuclear Weapons Data"
 output: html_document
 ---
 
-I provide the data and a code book for a Nuclear Weapons Dataset (NWD) for instructional purposes.
+I provide the data and a code book for the world's nuclear weapons for critical data science instructional purposes.
 
 The data includes various countries' nuclear capabilities and their hosting arrangements. The dataset also includes key variables that reflect the ownership of atomic bombs, hosting status, and membership in the United Nations Security Council. Understanding these variables is crucial for analyzing global nuclear dynamics and geopolitical relationships.
 
