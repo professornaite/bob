@@ -1,7 +1,4 @@
----
-title: "Nuclear Weapons Data"
-output: html_document
----
+# Nuclear Weapons Data
 
 I provide the data and a code book for the world's nuclear weapons for critical data science instructional purposes.
 
