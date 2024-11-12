@@ -24,5 +24,3 @@ The dataset comprises several important variables: `nation`, which identifies ea
 The repository is called "bob" for those who know about Outkast's 1990 song "Bombs of Baghdad."
 
 This project helps frame a broader focus on state violence to highlight the intersection of societal attitudes toward violence, destruction, and various forms of aggression in relation to nations and power. The project aims to explore how historical precedents influence perceptions of violence and who is allowed to exercise power in today's world.
-
-![Album cover for Outkast's "Bombs over Baghdad" single.](img/outkast.jpg){width=25%}
