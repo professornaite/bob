@@ -1,6 +1,6 @@
-# Nuclear Weapons Data
+### Nuclear Weapons Data
 
-I provide the data and a code book for the world's nuclear weapons for critical data science instructional purposes.
+We provide the data and a code book for the world's nuclear weapons for critical data science instructional purposes.
 
 The data includes various countries' nuclear capabilities and their hosting arrangements. The dataset also includes key variables that reflect the ownership of atomic bombs, hosting status, and membership in the United Nations Security Council. Understanding these variables is crucial for analyzing global nuclear dynamics and geopolitical relationships.
 
@@ -23,3 +23,7 @@ The data set includes five variables: `nation`, which identifies each country; `
 The repository is called "bob" for those who know about Outkast's 1990 song "Bombs of Baghdad."
 
 This project helps frame a broader focus on state violence to highlight the intersection of societal attitudes toward violence, destruction, and various forms of aggression in relation to nations and power. The project aims to explore how historical precedents influence perceptions of violence and who is allowed to exercise power in today's world.
+
+### Project members
+
+Nathan Alexander (Howard), [critstats-users](https://quant-shop.github.io/critstats)
