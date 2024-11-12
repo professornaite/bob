@@ -9,7 +9,7 @@ The data includes various countries' nuclear capabilities and their hosting arra
 
 ![](plots/total_atomic_bombs_by_country.png)
 
-The dataset comprises several important variables: `nation`, which identifies each country; `count`, representing the number of atomic bombs owned; `host`, indicating whether a country hosts nuclear weapons from another nation; `un`, denoting UN membership status; and `host_count`, which shows the number of nuclear bombs hosted by each country. Each variable is essential for understanding the landscape of nuclear armament and international relations.
+The data set includes five variables: `nation`, which identifies each country; `count`, representing the number of atomic bombs owned; `host`, indicating whether a country hosts nuclear weapons from another nation; `un`, denoting UN membership status; and `host_count`, which shows the number of nuclear bombs hosted by each country. Each variable is essential for understanding the landscape of nuclear armament and international relations.
 
 ## Codebook
 
