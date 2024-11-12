@@ -1,0 +1,34 @@
+---
+title: "bob"
+author: "Nathan Alexander"
+date: "2024-11-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+# libraries
+library(tidyverse)
+library(dplyr)
+
+# data 
+nation <- c("Russia", "US", "China", "France", "UK", "Pakistan", "India", "Israel", "North Korea")
+count <- c(4489, 3708, 410, 290, 225, 170, 164, 90, 30)
+df <- data.frame(nation, count)
+str(df)
+df %>% 
+  as_tibble()
+```
+
+```{r un}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
