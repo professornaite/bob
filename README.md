@@ -18,6 +18,10 @@ The data set includes five variables: `nation`, which identifies each country; `
 | `un`          | Rank of UN membership status.                                            | Numeric     | United Nations | G5 members include Russia, US, China, France, UK.   2 for G5 members, 1 for permanent members, 0 for non-permanent members.   |
 | `host_count`  | The number of nuclear bombs hosted by the country (if applicable).       | Numeric     |                | Reflects the number of foreign nuclear weapons hosted by the country.   |
 
+### Data sources
+
+![International Campaign to Abolish Nuclear Weapons](https://www.icanw.org/)
+
 ### Connections
 
 The repository is called "bob" for those who know about Outkast's 1990 song "Bombs of Baghdad."
