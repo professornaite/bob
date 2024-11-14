@@ -26,7 +26,7 @@ The data set includes five variables: `nation`, which identifies each country; `
 
 ### Connections
 
-The repository is called "bob" for those who know about Outkast's 1990 song "Bombs of Baghdad."
+The repository is called "bob" for those who know about Outkast's 2000 song "Bombs Over Baghdad."
 
 This project helps frame a broader focus on state violence to highlight the intersection of societal attitudes toward violence, destruction, and various forms of aggression in relation to nations and power. The project aims to explore how historical precedents influence perceptions of violence and who is allowed to exercise power in today's world.
 
