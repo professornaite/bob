@@ -20,9 +20,9 @@ The data set includes five variables: `nation`, which identifies each country; `
 
 ### Data sources
 
-- [Kurzgesagt](https://kurzgesagt.org/){target="_blank"}
+- [Kurzgesagt](https://kurzgesagt.org/)
 
-- [International Campaign to Abolish Nuclear Weapons](https://www.icanw.org/){target="_blank"}
+- [International Campaign to Abolish Nuclear Weapons](https://www.icanw.org/)
 
 ### Connections
 
