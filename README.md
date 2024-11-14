@@ -31,3 +31,7 @@ This project helps frame a broader focus on state violence to highlight the inte
 ### Project members
 
 Nathan Alexander (Howard), [critstats-users](https://professornaite.github.io/critstats/)
+
+### cite
+
+Nuclear Weapons Database (2024). Quantitative Histories Workshop. Howard University, Washington, DC.
