@@ -36,4 +36,4 @@ Nathan Alexander (Howard), [critstats-users](https://professornaite.github.io/cr
 
 ### cite
 
-Nuclear Weapons Database (2024). Quantitative Histories Workshop. Howard University, Washington, DC.
+Quantitative Histories Workshop (2024). Nuclear Weapons Database, v1. Howard University, Washington, DC.
