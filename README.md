@@ -15,7 +15,7 @@ The data set includes five variables: `nation`, which identifies each country; `
 | `nation`      | The name of the country.                                                 | Categorical |                | List of countries with nuclear capabilities or hosting arrangements.    |
 | `count`       | The number of atomic bombs owned by the country.                         | Numeric     |                | Represents the total count of atomic bombs for each country.            |
 | `host`        | Indicates whether the country hosts nuclear weapons from another nation. | Binary      |                | 1 = Hosts nuclear weapons, 0 = Does not host.                           |
-| `un`          | Rank of UN membership status.                                            | Numeric     | [United Nations](https://www.un.org/en/about-us/member-states) | P5 members include Russia, US, China, France, UK. Codes: 2 for P5 members, 1 for members, 0 for non members.   |
+| `un`          | Rank of UN membership status.                                            | Numeric     | [United Nations](https://www.un.org/en/about-us/member-states) | P5 members include Russia, US, China, France, UK. Codes: 2 for P5 members, 1 for members with core status, 0 for non-core status members.   |
 | `host_count`  | The number of nuclear bombs hosted by the country (if applicable).       | Numeric     |                | Reflects the number of foreign nuclear weapons hosted by the country.   |
 
 ### Data sources
