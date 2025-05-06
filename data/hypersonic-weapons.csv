@@ -1,0 +1,12 @@
+"nation","hypersonic_weapons","un_status","pop25","last_war","last_war_n","last_war_d","count","host","un","host_count"
+"China",5,TRUE,1.426e+09,"Sino-Vietnamese War, 1979","China vs Vietnam","1979",500,0,2,0
+"Russia",4,TRUE,144400000,"Invasion of Ukraine, 2022–present","Russia vs Ukraine","2022–present",5580,0,2,0
+"United States",1,TRUE,3.39e+08,"War in Afghanistan, 2001–2021","United States & NATO vs Taliban/Al-Qaeda","2001–2021",5044,0,2,0
+"France",1,TRUE,65300000,"Intervention in Mali, 2013–present","France & Allies vs Islamist groups","2013–present",290,0,2,0
+"India",1,TRUE,1.439e+09,"Kargil War (with Pakistan), 1999","India vs Pakistan","1999",172,0,1,0
+"North Korea",1,TRUE,25900000,"Korean War, 1950–1953","North Korea & China vs South Korea, US & Allies","1950–1953",50,0,1,0
+"Iran",1,TRUE,89200000,"Iran-Iraq War, 1980–1988","Iran vs Iraq","1980–1988",0,0,1,0
+"United Kingdom",0,TRUE,67700000,"War in Afghanistan (with US/NATO), 2001–2014","United Kingdom & NATO vs Taliban","2001–2014",225,0,2,0
+"Japan",0,TRUE,123300000,"World War II, 1941–1945","Japan vs Allied Powers","1941–1945",0,0,1,0
+"South Korea",0,TRUE,51700000,"Korean War, 1950–1953","South Korea & UN vs North Korea, China","1950–1953",0,0,1,0
+"Brazil",0,TRUE,2.17e+08,"Participation in MINUSTAH (Haiti), 2004–2017","Brazil & UN vs Haitian insurgents","2004–2017",0,0,1,0
